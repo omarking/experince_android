@@ -3,7 +3,8 @@
 # Add your API key in local.properties file.
 # tmdb_api_key=YOUR_API_KEY
 
-# Minimum SDK 16 # Kotlin 
+# Minimum SDK 16 
+# Kotlin 
 # MVVM Architecture Architecture 
 # Components (Lifecycle, LiveData, ViewModel, Room Persistence) 
 # DataBinding Material Design & Animations 
