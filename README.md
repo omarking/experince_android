@@ -1,3 +1,8 @@
+# Para visualizar contenido Offline es necesario primero que se carguen los datos correspondiente y posteriormene todos los datos cargados persistirán. 
+
+# Add your API key in local.properties file.
+# tmdb_api_key=YOUR_API_KEY
+
 # Minimum SDK 16 # Kotlin 
 # MVVM Architecture Architecture 
 # Components (Lifecycle, LiveData, ViewModel, Room Persistence) 
